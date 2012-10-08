@@ -4,21 +4,20 @@ Enter your details & save.
 
 run:
 
-"""
+```
 $ python
->>> from support import hashtime
-"""
+from support import hashtime
+```
 
 Then you will find a file named "support.pyc" put this next to any file you plan on using hashtime with and done.
 
 Just implement:
 
-"""
+```
 $ python
->>> from support import hashtime
->>>
->>> try:
->>>     what?
->>> except Exception,e:
->>>     hashtime(str(e),"subject goes here but is not required")
-"""
+from support import hashtime
+try:
+    what?
+except Exception,e:
+    hashtime(str(e),"subject goes here but is not required")
+```
