@@ -4,7 +4,8 @@ Enter your details & save.
 
 run:
 
-```$ python
+```
+$ python
 from support import hashtime
 ```
 
@@ -12,7 +13,8 @@ Then you will find a file named "support.pyc" put this next to any file you plan
 
 Just implement:
 
-```$ python
+```
+$ python
 from support import hashtime
 try:
     what?
