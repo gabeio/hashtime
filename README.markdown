@@ -2,8 +2,7 @@ Hashtime is a quick to implement method that you can use fast in python 2.7+ to 
 
 Enter your details & save.
 
-run:
-
+Then run:
 ```
 $ python
 from support import hashtime
@@ -12,7 +11,6 @@ from support import hashtime
 Then you will find a file named "support.pyc" put this next to any file you plan on using hashtime with and done.
 
 Just implement:
-
 ```
 $ python
 from support import hashtime
